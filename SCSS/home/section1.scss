@@ -1,0 +1,39 @@
+.section1 {
+  margin-bottom: 20px;
+  & .swiper-button-next {
+    background: rgba(0, 0, 0, 0.201);
+    border-radius: 50%;
+    padding: 5px;
+    & .swiper-navigation-icon {
+      height: 80%;
+      color: white;
+    }
+  }
+  & .swiper-button-prev {
+    background: rgba(0, 0, 0, 0.201);
+    border-radius: 50%;
+    padding: 5px;
+    & .swiper-navigation-icon {
+      height: 80%;
+      color: white;
+    }
+  }
+  & .swiper-slide {
+    border-radius: 20px;
+    width: 100%;
+    & img {
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+  & .container {
+    margin-left: 12%;
+    margin-right: 13%;
+    padding: 0;
+  }
+  & .mySwiper {
+    width: 100%;
+    margin: 0;
+    border-radius: 20px;
+  }
+}
