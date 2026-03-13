@@ -1,0 +1,101 @@
+[
+  {
+    "title": "PC SPECTER A Plus | AMD Ryzen 7 9800X3D, X870 WIFI, DDR5 32GB, SSD 1TB, RTX 5070",
+    "img": "https://cdn.hstatic.net/products/200000420363/image_x4c0xox4c0xox4c0_8acc4c64131a46738987830abe7d39b6_large.png",
+    "price": "56,368,000₫",
+    "delprice": "62,068,000₫",
+    "chip": "R7 9800X3D",
+    "card": "RTX 5070",
+    "main": "X870 WiFi",
+    "ram": "32GB DDR5",
+    "ssd": "1TB"
+  },
+  {
+    "title": "PC STAR Force A | AMD Ryzen 7 7800X3D, DDR5 16GB, SSD 512GB, RTX 3060",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng_-_2026-02-10t171858.255_f91e6127104241fbb4029f60c589825e_large.png",
+    "price": "29,955,000₫",
+    "delprice": "32,955,000₫",
+    "chip": "R7 7800X3D",
+    "card": "RTX 3060",
+    "main": "B650M WiFi",
+    "ram": "16GB DDR5",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR FrostBlade D Plus | Intel Core i5 14400F, B760M, DDR5 16GB, SSD 512GB, RTX 3060",
+    "img": "https://cdn.hstatic.net/products/200000420363/chatgpt_image_sep_23__2025__04_15_58_pm_2c283640f55f4737b08680aefbd86cf4_large.png",
+    "price": "26,061,000₫",
+    "delprice": "28,561,000₫",
+    "chip": "i5 14400F",
+    "card": "RTX 3060",
+    "main": "B760M",
+    "ram": "16GB DDR5",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR FrostBlade E | Intel Core i3 12100F, H610, DDR5 16GB, SSD 512GB, GTX 1050",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng_-_2026-02-10t171650.018_49a620622cae4519ae9e23b479b9e6f2_large.png",
+    "price": "13,793,000₫",
+    "delprice": "16,043,000₫",
+    "chip": "i3 12100F",
+    "card": "GTX 1050",
+    "main": "H610M",
+    "ram": "16GB DDR5",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR Pegasus B Plus | AMD Ryzen 5 7600, RX 7600",
+    "img": "https://cdn.hstatic.net/products/200000420363/tinhocngoisao.com1__6__906267af66a747ccb8d824cd60156cf6_master_7b47eb0394e443f88f6d683ce0459902_large.png",
+    "price": "26,707,000₫",
+    "delprice": "33,670,000",
+    "chip": "R5 7600",
+    "card": "RX 7600",
+    "main": "B650M",
+    "ram": "16GB DDR5",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR Skyclaw A | Intel i5 14400F, B760M WiFi, RTX 5060Ti",
+    "img": "https://cdn.hstatic.net/products/200000420363/c_8d0c83813fcf462c942c5ae549e3ca40_large.png",
+    "price": "33,004,000₫",
+    "delprice": "35,000,000₫",
+    "chip": "i5 14400F",
+    "card": "RTX 5060Ti",
+    "main": "B760M WiFi",
+    "ram": "16GB DDR4",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR Skyclaw D | Intel i5 12400F, B760M, RTX 3060",
+    "img": "https://cdn.hstatic.net/products/200000420363/tinhocngoisao.com1__6__906267af66a747ccb8d824cd60156cf6_master_513407164f754ac8a404af37439d1a95_large.png",
+    "price": "20,570,000₫",
+    "delprice": "21,970,000₫",
+    "chip": "i5 12400F",
+    "card": "RTX 3060",
+    "main": "B760M",
+    "ram": "16GB DDR4",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR Skyclaw SS | Intel i9 14900K, Z790 WiFi, RTX 5070",
+    "img": "https://cdn.hstatic.net/products/200000420363/screenshot_4_d9579baf3b8540c2898c81490d9d2bb6_large.png",
+    "price": "59,775,000₫",
+    "delprice": "65,475,000₫",
+    "chip": "i9 14900K",
+    "card": "RTX 5070",
+    "main": "Z790 WiFi",
+    "ram": "32GB DDR5",
+    "ssd": "512GB"
+  },
+  {
+    "title": "PC STAR Storm A | Intel i5 14400F, B760M, RTX 3060",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng_-_2026-01-31t112424.480_fa61beaa7fc04eb6889a2cc78dd374e3_large.png",
+    "price": "24,076,000₫",
+    "delprice": "25,576,000₫",
+    "chip": "i5 14400F",
+    "card": "RTX 3060",
+    "main": "B760M",
+    "ram": "16GB DDR5",
+    "ssd": "512GB"
+  }
+]

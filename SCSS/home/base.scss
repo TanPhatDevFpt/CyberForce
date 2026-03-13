@@ -2,10 +2,38 @@
 body {
   font-family: "Montserrat", sans-serif;
   --background-infomation: #e02027;
-  --text-color-dropdown:#333333;
-  --menu-user:#7c7575;
+  --text-color-dropdown: #333333;
+  --menu-user: #7c7575;
+  --text-color: black;
+  --price: #d21212;
+  --products: #890502;
   margin: 0 !important;
   padding: 0 !important;
+  background: #f4f8fa;
+  // swiper products
+  & .swiper-button-next {
+    background: rgba(0, 0, 0, 0.201);
+    border-radius: 50%;
+    padding: 5px;
+    & .swiper-navigation-icon {
+      height: 80%;
+      color: white;
+    }
+  }
+  & .swiper-button-prev {
+    background: rgba(0, 0, 0, 0.201);
+    border-radius: 50%;
+    padding: 5px;
+    & .swiper-navigation-icon {
+      height: 80%;
+      color: white;
+    }
+  }
+  & .swiper-slide {
+    border-radius: 20px;
+    width: 100%;
+  }
+  //end swiper products
 }
 .container {
   padding: 0 2%;

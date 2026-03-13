@@ -10,6 +10,12 @@
     <meta name="Author" content="Tấn Phát" />
     <title>CyberForce</title>
     <link
+      rel="shortcut icon"
+      8
+      href="./ASSETS/IMG/Logo CyberForce.png"
+      type="image/png"
+    />
+    <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
       integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
@@ -18,8 +24,9 @@
     />
     <link rel="stylesheet" href="./CSS/home/base.css" />
     <link rel="stylesheet" href="./CSS/home/menu.css" />
-    <link rel="stylesheet" href="./CSS/home/section1.css">
-    <link rel="stylesheet" href="./CSS/home/section2.css">
+    <link rel="stylesheet" href="./CSS/home/section1.css" />
+    <link rel="stylesheet" href="./CSS/home/section2.css" />
+    <link rel="stylesheet" href="./CSS/home/section3.css" />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"
@@ -94,26 +101,7 @@
               </a>
             </div>
             <div class="list__category">
-              <ul>
-                <li>
-                  <a href="#">SSD</a>
-                </li>
-                <li>
-                  <a href="#">VGA</a>
-                </li>
-                <li>
-                  <a href="#">PC gaming</a>
-                </li>
-                <li>
-                  <a href="#">Cpu AMD</a>
-                </li>
-                <li>
-                  <a href="#">Ram</a>
-                </li>
-                <li>
-                  <a href="#">Màn Hình</a>
-                </li>
-              </ul>
+              <ul></ul>
             </div>
           </div>
           <div class="user">
@@ -149,18 +137,8 @@
     <div class="section1">
       <div class="container">
         <!-- Swiper -->
-        <div class="swiper mySwiper">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <img src="https://theme.hstatic.net/200000420363/1001333448/14/fhome_slider_item_desk_img1.jpg?v=6507">
-            </div>
-            <div class="swiper-slide">
-              <img src="https://theme.hstatic.net/200000420363/1001333448/14/fhome_slider_item_desk_img2.jpg?v=6507">
-            </div>
-            <div class="swiper-slide">
-              <img src="https://theme.hstatic.net/200000420363/1001333448/14/fhome_slider_item_desk_img3.jpg?v=6507">
-            </div>
-          </div>
+        <div class="swiper mySwiper Slider">
+          <div class="swiper-wrapper"></div>
           <div class="swiper-button-next"></div>
           <div class="swiper-button-prev"></div>
         </div>
@@ -170,32 +148,88 @@
     <!-- section1 -->
 
     <!-- section 2 -->
-     <div class="section2">
+    <div class="section2">
       <div class="container">
         <div class="inner__item">
           <div class="item">
-            <img src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_1_master.jpg?v=6507">
+            <img
+              src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_1_master.jpg?v=6507"
+            />
           </div>
           <div class="item">
-            <img src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_2_master.jpg?v=6507">
+            <img
+              src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_2_master.jpg?v=6507"
+            />
           </div>
           <div class="item">
-            <img src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_3_master.jpg?v=6507">
+            <img
+              src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_3_master.jpg?v=6507"
+            />
           </div>
           <div class="item">
-            <img src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_4_master.jpg?v=6507">
+            <img
+              src="https://theme.hstatic.net/200000420363/1001333448/14/banner_home_4_master.jpg?v=6507"
+            />
           </div>
         </div>
       </div>
-     </div>
-     <!--end section 2 -->
-     s
+    </div>
+    <!--end section 2 -->
+
+    <!-- Section 3 -->
+    <div class="section3">
+      <div class="container">
+        <div class="products">
+          <div class="inner__title">
+            <div class="title active">
+              <p>PC GAMING</p>
+            </div>
+          </div>
+          <div class="boxproducts active">
+            <div class="box">
+              <div class="inner__img">
+              </div>
+              <div class="inner__item">
+                <div class="item">
+                  <!-- Swiper -->
+                  <div class="swiper mySwiper">
+                    <div class="viewall">
+                      <a href="#"
+                        >Xem Tất Cả<i class="fa-solid fa-angle-right"></i
+                      ></a>
+                    </div>
+                    <div class="swiper-wrapper"></div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                  </div>
+                  <!--end Swiper -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--end Section 3 -->
 
     <!-- javascript swiper -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
     <!-- end javascript swiper -->
     <!-- javascript -->
-     <script src="./JAVASCRIPT/home/slider_swiper/slider_swiper.js"></script>
+    <script
+      type="module"
+      src="./JAVASCRIPT/home/ImgSlider/imgslider.js"
+    ></script>
+    <script type="module" src="./JAVASCRIPT/home/ImgPc/imgpc.js"></script>
+    <script
+      type="module"
+      src="./JAVASCRIPT/home/ProductsPC/productspc.js"
+    ></script>
+    <script src="./JAVASCRIPT/home/slider_swiper/products_swiper.js"></script>
+    <script type="module" src="./JAVASCRIPT/home/contain.js"></script>
+    <script type="module" src="./JAVASCRIPT/home/setapi.js"></script>
+    <script type="module" src="./JAVASCRIPT/home/Category/Category.js"></script>
+    <script src="./JAVASCRIPT/home/slider_swiper/slider_swiper.js"></script>
     <!--end javascript -->
   </body>
 </html>
