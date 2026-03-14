@@ -3,5 +3,9 @@ export const API = {
     Category: `${ApiBase}Category.json`,
     Slider: `${ApiBase}Slider.json`,
     ProductsPc: `${ApiBase}ProductsPc.json`,
-    imgPc: `${ApiBase}imgPc.json`
+    imgPc: `${ApiBase}imgPc.json`,
+    ProductsVGA: `${ApiBase}ProductsVGA.json`,
+    imgVGA: `${ApiBase}imgVGA.json`,
+    ProductsLaptop: `${ApiBase}ProductsLaptop.json`,
+    imgLaptop: `${ApiBase}imgLaptop.json`
 }

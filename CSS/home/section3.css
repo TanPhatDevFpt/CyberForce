@@ -4,6 +4,7 @@
   padding: 0;
 }
 .section3 .products {
+  margin-bottom: 50px;
   border-radius: 10px;
   background: rgb(255, 255, 255);
 }
@@ -17,6 +18,7 @@
   text-decoration: none;
 }
 .section3 .inner__item {
+  align-content: center;
   overflow: hidden;
 }
 .section3 .swiper-slide {

@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   --background-infomation: #e02027;
@@ -32,6 +36,18 @@ body .swiper-button-prev .swiper-navigation-icon {
 body .swiper-slide {
   border-radius: 20px;
   width: 100%;
+}
+body .banner {
+  display: flex;
+  width: 100%;
+  position: fixed;
+  top: 200px;
+}
+body .banner .imgbanner1 {
+  margin-right: auto;
+}
+body .banner .imgbanner2 {
+  margin-left: auto;
 }
 
 .container {

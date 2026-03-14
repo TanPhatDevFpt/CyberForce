@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Laptop Văn phòng DELL DC15250 CPH99",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__37__7b6cda499821494ea62c9856aa911102_large.jpg",
+    "price": "16,490,000₫",
+    "delprice": "17,390,000₫",
+    "cpu": "i5 1334U",
+    "gpu": "Onboard",
+    "ram": "16GB DDR4",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" FHD IPS 120Hz"
+  },
+  {
+    "title": "Laptop Văn phòng ACER Aspire Lite 14 AL14-52M",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__41__aa81f5c6057c4281b4d4de7c951af740_large.jpg",
+    "price": "10,590,000₫",
+    "delprice": "11,590,000₫",
+    "cpu": "i3 1305U",
+    "gpu": "Onboard",
+    "ram": "8GB DDR5",
+    "ssd": "SSD 256GB",
+    "display": "14\" WUXGA IPS 60Hz"
+  },
+  {
+    "title": "Laptop Lenovo Xiaoxin 15c AHP10",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__67__1cc8f92b335544c6b05072237c346b22_large.jpg",
+    "price": "17,390,000₫",
+    "delprice": "17,900,000₫",
+    "cpu": "R7 8745HS",
+    "gpu": "Onboard",
+    "ram": "16GB DDR5",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" 2.5K OLED 165Hz"
+  },
+  {
+    "title": "Laptop Văn phòng Microsoft Surface Studio",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__24__2f3539af8a924a0c8b47350606a6fd79_large.png",
+    "price": "16,990,000₫",
+    "delprice": "18,900,000₫",
+    "cpu": "i5 11300H",
+    "gpu": "Onboard",
+    "ram": "16GB LPDDR4",
+    "ssd": "SSD 512GB",
+    "display": "14.4\" 2K IPS 120Hz"
+  },
+  {
+    "title": "Laptop Gaming ACER Aspire 7 A715-59G-57TU",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__66__8002cf2262324b47a71e216ea00bb3cc_large.jpg",
+    "price": "18,990,000₫",
+    "delprice": "19,590,000₫",
+    "cpu": "i5 12450H",
+    "gpu": "RTX 3050 6GB",
+    "ram": "16GB DDR4",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" FHD IPS 144Hz"
+  },
+  {
+    "title": "Laptop văn phòng Acer Aspire Go 15 AG15-72P",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__87__5d5ec31f51e546fcaaeb3b6fc8c50b65_large.png",
+    "price": "15,590,000₫",
+    "delprice": "15,990,000₫",
+    "cpu": "Core 5 120U",
+    "gpu": "Onboard",
+    "ram": "16GB DDR4",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" FHD IPS LCD 60Hz"
+  },
+  {
+    "title": "Laptop Văn phòng MSI Modern 15 B13M-297VN",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__76__f5d402dddb1e4737bc6b3e64c1a2a639_large.jpg",
+    "price": "14,990,000₫",
+    "delprice": "15,590,000₫",
+    "cpu": "i7 1355U",
+    "gpu": "Onboard",
+    "ram": "16GB DDR4",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" FHD IPS 60Hz"
+  },
+  {
+    "title": "Laptop gaming Acer Nitro V 15 ProPanel ANV15-41",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__47__9503d8dde69244f3a2922e280cbd9185_large.jpg",
+    "price": "23,590,000₫",
+    "delprice": "23,990,000₫",
+    "cpu": "R5 7535HS",
+    "gpu": "RTX 3050 6GB",
+    "ram": "16GB DDR5",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" FHD IPS 180Hz"
+  },
+  {
+    "title": "Laptop gaming Acer Nitro V 15 ProPanel ANV15-52",
+    "img": "https://cdn.hstatic.net/products/200000420363/t_i_xu_ng__49__b83eeae1deee47df8994c75fda768335_large.jpg",
+    "price": "30,990,000₫",
+    "delprice": "32,590,000₫",
+    "cpu": "i7 13620H",
+    "gpu": "RTX 5050 8GB",
+    "ram": "16GB DDR4",
+    "ssd": "SSD 512GB",
+    "display": "15.6\" FHD IPS 180Hz"
+  }
+]

@@ -3,7 +3,6 @@ header {
   top: 0;
   z-index: 9999999999;
   // cart
-
   .cart{
     & a{
       display:flex;
@@ -104,6 +103,9 @@ header {
   // inner menu
   & .inner__menu {
     background:white;
+    &.active{
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    }
     & .category {
       border: 1px solid rgba(159, 159, 159, 0.585);
       border-radius: 5px;

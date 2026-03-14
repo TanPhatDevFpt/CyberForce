@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 5060 Colorful",
+    "img": "https://cdn.hstatic.net/products/200000420363/vga-colorful-rtx-5060-gaming-duo_copy_25354043719a4fa182fda06ae87b9ce2_large.jpg",
+    "price": "8,790,000₫",
+    "delprice": "9,390,000₫",
+    "vram": "8GB GDDR7",
+    "cuda": "3840 CUDA",
+    "power": "550W"
+  },
+  {
+    "title": "Card màn hình AMD Radeon RX 9060 XT",
+    "img": "https://product.hstatic.net/200000420363/product/tinhocngoisao.com1__7__ea9449b011b341969c3558d0d77884b1_large.jpg",
+    "price": "12,990,000₫",
+    "delprice": "",
+    "vram": "16GB GDDR6",
+    "cuda": "2048 SP",
+    "power": "450W"
+  },
+  {
+    "title": "Card màn hình Asus Dual RTX 5050 8GB",
+    "img": "https://cdn.hstatic.net/products/200000420363/5888-5050_866c83a581f44117a7dcb6264f71490f_large.jpg",
+    "price": "8,190,000₫",
+    "delprice": "",
+    "vram": "8GB GDDR6",
+    "cuda": "2560 CUDA",
+    "power": "550W"
+  },
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 3050 Asus Dual",
+    "img": "https://product.hstatic.net/200000420363/product/v-3050-8g-as-dual-2f-v2_28cd61a238eb43a09b1b5c16ac108288_large.png",
+    "price": "6,590,000₫",
+    "delprice": "6,990,000₫",
+    "vram": "8GB GDDR6",
+    "cuda": "2560 CUDA",
+    "power": "450W"
+  },
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 5050 BattleAx",
+    "img": "https://cdn.hstatic.net/products/200000420363/tinhocngoisao.com1__6__1f299f4bfb4e4f55b8ce0ed7dd8ccd21_large.jpg",
+    "price": "7,590,000₫",
+    "delprice": "",
+    "vram": "8GB GDDR6",
+    "cuda": "2560 CUDA",
+    "power": "500W"
+  },
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 5060 INNO3D Twin X2 OC",
+    "img": "https://product.hstatic.net/200000420363/product/card-m_n-h_nh-vga-inno3d-geforce-rtx-5060-twin-x2-oc3_a7011d7d26dd48ea9d3672a6fb9b8b76_large.png",
+    "price": "9,190,000₫",
+    "delprice": "",
+    "vram": "8GB GDDR7",
+    "cuda": "3840 CUDA",
+    "power": "550W",
+    "brand": "TINHOCNGOISAO.COM"
+  },
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 5060 Palit Dual",
+    "img": "https://cdn.hstatic.net/products/200000420363/12703_card_man_hinh_palit_geforc_copy_1d077dd676e0429bab8cc1b54a3b25f2_large.jpg",
+    "price": "8,890,000₫",
+    "delprice": "",
+    "vram": "8GB GDDR7",
+    "cuda": "4608 CUDA",
+    "power": "550W"
+  },
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 5060 BattleAx",
+    "img": "https://cdn.hstatic.net/products/200000420363/_nh_d_i_di_n_sp_thns__1000_x_1000_px__53__45cf3d90e0fa488ab26f3d08694a6466_large.png",
+    "price": "11,190,000₫",
+    "delprice": "",
+    "vram": "8GB GDDR7",
+    "cuda": "4608 CUDA",
+    "power": "600W"
+  },
+  {
+    "title": "Card màn hình NVIDIA GeForce RTX 5060 Ti MSI Ventus 2X",
+    "img": "https://product.hstatic.net/200000420363/product/card-m_n-h_nh-msi-geforce-rtx_-5060-ti-8g-ventus-2x-plus2_18edd5572db24667aa2cbe201670df80_large.png",
+    "price": "11,290,000₫",
+    "delprice": "11,790,000₫",
+    "vram": "8GB GDDR7",
+    "cuda": "4608 CUDA",
+    "power": "600W"
+  }
+]
