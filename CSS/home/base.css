@@ -44,9 +44,11 @@ body .banner {
   top: 200px;
 }
 body .banner .imgbanner1 {
+  padding-left: 2%;
   margin-right: auto;
 }
 body .banner .imgbanner2 {
+  padding-right: 2%;
   margin-left: auto;
 }
 

@@ -7,5 +7,7 @@ export const API = {
     ProductsVGA: `${ApiBase}ProductsVGA.json`,
     imgVGA: `${ApiBase}imgVGA.json`,
     ProductsLaptop: `${ApiBase}ProductsLaptop.json`,
-    imgLaptop: `${ApiBase}imgLaptop.json`
+    imgLaptop: `${ApiBase}imgLaptop.json`,
+    CategoryProducts: `${ApiBase}CategoryProducts.json`,
+    SliderCompany: `${ApiBase}SliderCompany.json`
 }
