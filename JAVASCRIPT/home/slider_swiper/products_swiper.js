@@ -1,4 +1,4 @@
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".section3swiper", {
     slidesPerView: 5,
   slidesPerGroup: 4,
   navigation: {

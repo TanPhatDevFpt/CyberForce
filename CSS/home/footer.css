@@ -1,0 +1,102 @@
+.footer {
+  z-index: 1;
+  background: white;
+}
+.footer .container {
+  padding: 0 12%;
+}
+.footer .detail {
+  padding-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+}
+.footer .detail img {
+  width: 150px;
+}
+.footer .detail em {
+  font-size: 13px;
+}
+.footer .address__shop {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.footer .address__shop .item {
+  width: 23%;
+}
+.footer .address__shop .item .infomation {
+  font-size: 14px;
+}
+.footer .address__shop .item .infomation .shop {
+  cursor: pointer;
+  display: flex;
+  gap: 5px;
+}
+.footer .address__shop .item .infomation .shop b {
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+.footer .address__shop .item .infomation .shop i {
+  transition: 0.3s ease;
+}
+.footer .address__shop .item .infomation .shop:hover i {
+  color: var(--background-infomation);
+}
+.footer .address__shop .item .infomation .shop:hover b {
+  color: var(--background-infomation);
+}
+.footer .address__shop .item .infomation .phone {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  cursor: pointer;
+}
+.footer .address__shop .item .infomation .phone p {
+  transition: 0.3s ease;
+}
+.footer .address__shop .item .infomation .phone i {
+  transition: 0.3s ease;
+}
+.footer .address__shop .item .infomation .phone:hover i {
+  color: var(--background-infomation);
+}
+.footer .address__shop .item .infomation .phone:hover p {
+  color: var(--background-infomation);
+}
+.footer .address__shop .item .title {
+  display: flex;
+  margin-bottom: 20px;
+}
+.footer .address__shop .item .title .number {
+  text-align: center;
+  width: 5%;
+  padding: 10px;
+  background: #505050;
+  border-radius: 5px 0px 0px 5px;
+}
+.footer .address__shop .item .title span {
+  width: 100%;
+  background: #e02027;
+  color: white;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 10px;
+  border-radius: 0px 5px 5px 0px;
+}
+.footer h2 {
+  padding-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+  text-align: center;
+}
+.footer h2::after {
+  content: " ";
+  width: 170px;
+  height: 2px;
+  left: 45%;
+  top: 90px;
+  background: black;
+  position: absolute;
+}
+
+/*# sourceMappingURL=footer.css.map */
