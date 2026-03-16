@@ -1,6 +1,6 @@
 import { fetchapi } from "../setapi.js";
 import { API, ApiBase } from "../contain.js";
-const swiper = document.querySelector(".section6 .video");
+const swiper = document.querySelector(".title__category .video");
 const Api = `${API.Videotiktok}`;
 fetchapi(Api).then((data) => {
   let HTML = "";
@@ -17,9 +17,8 @@ fetchapi(Api).then((data) => {
         `;
   });
   swiper.innerHTML = HTML;
-  setTimeout(() => {
-    if (window.tiktokEmbed) {
-      window.tiktokEmbed.load();
-    }
-  }, 300);
+    const script = document.createElement("script");
+  script.src = "https://www.tiktok.com/embed.js";
+  script.async = true;
+  document.body.appendChild(script);
 });
