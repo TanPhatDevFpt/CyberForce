@@ -9,5 +9,6 @@ export const API = {
     ProductsLaptop: `${ApiBase}ProductsLaptop.json`,
     imgLaptop: `${ApiBase}imgLaptop.json`,
     CategoryProducts: `${ApiBase}CategoryProducts.json`,
-    SliderCompany: `${ApiBase}SliderCompany.json`
+    SliderCompany: `${ApiBase}SliderCompany.json`,
+    Videotiktok: `${ApiBase}Videotiktok.json`
 }
