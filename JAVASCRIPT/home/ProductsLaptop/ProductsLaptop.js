@@ -9,7 +9,7 @@ fetchapi(Api).then((data) => {
                       <div class="swiper-slide">
                         <div class="item__swiper">
                           <div class="img__swiper">
-                            <a href="#123">
+                            <a href="./HTML/infomation/infomation.html">
                               <img
                                 src="${result.img}"
                               />
@@ -19,7 +19,7 @@ fetchapi(Api).then((data) => {
                             </div>
                           </div>
                           <div class="title__swiper">
-                            <a href="#2"
+                            <a href="./HTML/infomation/infomation.html"
                               >${result.title}
                             >
                           </div>
