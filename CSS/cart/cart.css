@@ -1,0 +1,135 @@
+.section1 {
+  background: white;
+}
+.section1 .container {
+  margin-right: 12%;
+  margin-left: 12%;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+}
+.section1 h1 {
+  margin-top: 0;
+}
+.section1 .inner__cart {
+  display: flex;
+}
+.section1 .pay {
+  width: 30%;
+}
+.section1 .pay .total {
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+}
+.section1 .pay .btn__pay {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.section1 .pay .btn__pay .out {
+  text-decoration: none;
+  background: #e02027;
+  padding: 13px;
+  width: 40%;
+  text-align: center;
+  display: inline-block;
+  border-radius: 50px;
+  font-size: 13px;
+  color: white;
+  font-weight: 500;
+  transition: 0.5s ease;
+}
+.section1 .pay .btn__pay .out:hover {
+  background: rgba(255, 255, 255, 0);
+  border: 1px solid #e02027;
+  color: #e02027;
+}
+.section1 .pay .btn__pay .pay {
+  text-align: center;
+  display: inline-block;
+  width: 40%;
+  background: rgba(255, 255, 255, 0);
+  border: 1px solid #e02027;
+  color: #e02027;
+  text-decoration: none;
+  padding: 13px;
+  border-radius: 50px;
+  font-size: 13px;
+  font-weight: 500;
+}
+.section1 .products {
+  width: 70%;
+}
+.section1 .products .item {
+  display: flex;
+  gap: 2%;
+  align-items: center;
+}
+.section1 .products .item .img {
+  width: 16%;
+}
+.section1 .products .item .description {
+  width: 18%;
+}
+.section1 .products .item .description a {
+  font-size: 13px;
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+  transition: 0.5s ease;
+}
+.section1 .products .item .description a:hover {
+  color: var(--background-infomation);
+}
+.section1 .products .item .price {
+  width: 16%;
+}
+.section1 .products .item .price span {
+  color: red;
+  font-weight: bold;
+}
+.section1 .products .item .price del {
+  font-weight: bold;
+  color: rgba(117, 117, 117, 0.671);
+}
+.section1 .products .item .quantity {
+  width: 16%;
+  display: flex;
+  justify-content: center;
+}
+.section1 .products .item .quantity input {
+  width: 30%;
+  height: 20px;
+}
+.section1 .products .item .total {
+  width: 16%;
+  text-align: center;
+  color: rgb(104, 104, 104);
+  font-weight: 500;
+}
+.section1 .products .item .delete {
+  text-align: center;
+  width: 16%;
+}
+.section1 .products .item .delete a {
+  color: black;
+  transition: 0.5s ease;
+}
+.section1 .products .item .delete a:hover {
+  color: var(--background-infomation);
+}
+.section1 .products .cart .title {
+  border-top: 1px solid rgba(165, 165, 165, 0.377);
+  border-bottom: 1px solid rgba(165, 165, 165, 0.377);
+  display: flex;
+  font-size: 15px;
+  gap: 10%;
+}
+.section1 .products .cart .title p {
+  width: 100px;
+  display: flex;
+  text-align: center;
+}
+
+/*# sourceMappingURL=cart.css.map */

@@ -3,6 +3,7 @@ html{
 scroll-behavior: smooth;
 }
 body {
+  box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
   --background-infomation: #e02027;
   --text-color-dropdown: #333333;
