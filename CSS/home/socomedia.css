@@ -1,0 +1,40 @@
+.socomedia {
+  display: flex;
+  gap: 10px;
+  padding-bottom: 20px;
+}
+.socomedia a {
+  text-decoration: none;
+}
+.socomedia .fb {
+  display: block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background: #3b5998;
+  color: #fff;
+  border-radius: 5px;
+}
+.socomedia .ytb {
+  display: block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background: #d8133e;
+  color: #fff;
+  border-radius: 5px;
+}
+.socomedia .tiktok {
+  display: block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background: #080808;
+  color: #fff;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=socomedia.css.map */
