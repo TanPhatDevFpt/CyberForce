@@ -3,32 +3,32 @@ header {
   top: 0;
   z-index: 9999999999;
   // cart
-  .cart{
-    & a{
-      display:flex;
-      gap:5px;
+  .cart {
+    & a {
+      display: flex;
+      gap: 5px;
       align-items: center;
       text-decoration: none;
-      & p{
-        color:var(--menu-user);
-        font-size:14px;
+      & p {
+        color: var(--menu-user);
+        font-size: 14px;
         font-weight: 600;
       }
-      & i{
-        font-size:25px;
-        color:var(--menu-user);
-        position:relative;
-        & span{
-          font-size:13px;
-          background:var(--background-infomation);
-          color:white;
-          padding:3px 0;
+      & i {
+        font-size: 25px;
+        color: var(--menu-user);
+        position: relative;
+        & span {
+          font-size: 13px;
+          background: var(--background-infomation);
+          color: white;
+          padding: 3px 0;
           border-radius: 50%;
-          left:13px;
-          border:1px solid white;
-          top:-10px;
+          left: 13px;
+          border: 1px solid white;
+          top: -10px;
           width: 22px;
-          position:absolute;
+          position: absolute;
         }
       }
     }
@@ -43,9 +43,9 @@ header {
       z-index: 99999;
       transition: all 0.35s ease;
       transform: translateY(15px);
-      bottom:-70px;
+      bottom: -70px;
       opacity: 0;
-      width:150px;
+      width: 150px;
       display: flex;
       visibility: hidden;
       gap: 15px;
@@ -55,16 +55,17 @@ header {
       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
       position: absolute;
       padding: 8px 10px;
-      & .login__user, .sign__user{
+      & .login__user,
+      .sign__user {
         display: flex;
-        padding:5px 1px;
-        background:#fdd835;
-        width:100%;
+        padding: 5px 1px;
+        background: #fdd835;
+        width: 100%;
         display: flex;
         justify-content: center;
-        font-size:14px;
+        font-size: 14px;
         text-decoration: none;
-        color:black;
+        color: black;
         border-radius: 5px;
       }
       & li {
@@ -102,16 +103,30 @@ header {
 
   // inner menu
   & .inner__menu {
-    background:white;
-    &.active{
-      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background: white;
+    &.active {
+      box-shadow:
+        rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+        rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     }
-    & .category {
-      border: 1px solid rgba(159, 159, 159, 0.585);
-      border-radius: 5px;
-      padding: 10px;
-      font-size: 14px;
-    }
+      & .category {
+        border: 1px solid rgba(159, 159, 159, 0.585);
+        border-radius: 5px;
+        padding: 10px;
+        font-size: 14px;
+        position: relative;
+        & .menu-mega {
+          position: absolute;
+          display: none;
+          top: 100%;
+          background: red;
+        }
+        &:hover {
+          & .menu-mega {
+            display: block;
+          }
+        }
+      }
     & .container {
       padding: 0 10%;
       display: flex;
